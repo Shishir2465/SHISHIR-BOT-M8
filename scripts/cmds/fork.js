@@ -71,7 +71,7 @@ module.exports = {
         const text =
             `🌸 𝑾𝒉𝒐𝒂! 𝑺𝒐 𝒄𝒖𝒕𝒆~ 🎀\n\n` +
             `✨ **𝑭𝒐𝒓𝒌 𝒊𝒔 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏!** 🚀\n` +
-            `🔗 **Fork Link:** Coming Soon\n` +
+            `🔗 **https://github.com/ariyanx404/REM-X-ST-BOT-.git:**\n` +
             `📺 **YouTube Link:** Coming Soon\n\n` +
             `💖 𝑺𝒕𝒂𝒚 𝒕𝒖𝒏𝒆𝒅 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒂𝒘𝒆𝒔𝒐𝒎𝒆 𝒖𝒑𝒅𝒂𝒕𝒆𝒔!`;
 
