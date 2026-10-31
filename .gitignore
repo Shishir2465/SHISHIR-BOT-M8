@@ -1,0 +1,44 @@
+node_modules
+fb-chat-api.dev
+obfcode.js
+minify.js
+backupOrigin.js
+createVersion.js
+createVersionAndCommit.js
+checkOriginCodeChanged.js
+*.zip
+*.rar
+*.dev.*
+*test.*
+*.test.*
+test.js
+
+# Secrets / sessions (never commit)
+.env
+.env.*
+account.txt
+account.txt2
+fbstate.json
+appstate.json
+cookies.json
+fca-config.json
+Fca_Database
+database/e2ee-device.json
+database/*.sqlite
+database/data/*
+!database/data/.gitkeep
+
+# Backups / logs
+backups
+*.log
+.git.backup.*
+
+# Runtime temp files
+scripts/cmds/tmp/*
+!scripts/cmds/tmp/.gitkeep
+scripts/cmds/assets/guide
+!scripts/cmds/assets/guide/.gitkeep
+scripts/events/tmp/*
+!scripts/events/tmp/.gitkeep
+scripts/events/data/leaveAttachment
+scripts/events/data/welcomeAttachment

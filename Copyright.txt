@@ -1,0 +1,13 @@
+REM X ST
+Maintained and customized by ARIYANX404
+https://github.com/ariyanx404/rem-x-st
+
+Credits:
+- Original creator: NTKhang (Goat Bot V2)
+  https://github.com/ntkhang03/Goat-Bot-V2
+- Enhanced fork: Sheikh Tamim (ST-BOT, ST-FCA)
+  https://github.com/sheikhtamimlover/ST-BOT
+- This fork: ARIYANX404
+
+This project is released under the MIT License (see LICENSE).
+Please keep the credits above when you copy, modify or share this project.

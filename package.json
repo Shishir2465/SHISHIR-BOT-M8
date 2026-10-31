@@ -1,0 +1,68 @@
+{
+  "name": "rem-x-st",
+  "version": "1.0.0",
+  "description": "REM X ST | Messenger bot forked from ST-BOT (Goat Bot V2)",
+  "homepage": "https://github.com/ariyanx404/rem-x-st#readme",
+  "bugs": {
+    "url": "https://github.com/ariyanx404/rem-x-st/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariyanx404/rem-x-st.git"
+  },
+  "license": "MIT",
+  "author": "ARIYANX404",
+  "contributors": [
+    "ST | Sheikh Tamim (ST-BOT, ST-FCA)",
+    "NTKhang (Original Goat Bot V2)"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@dongdev/fca-unofficial": "4.0.3",
+    "axios": "^1.15.2",
+    "body-parser": "^2.2.2",
+    "canvas": "*",
+    "cheerio": "*",
+    "cookie-parser": "^1.4.7",
+    "discord-image-generation-v2": "^1.0.7",
+    "eta": "^4.6.0",
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2",
+    "express-rate-limit": "^8.4.1",
+    "express-session": "^1.19.0",
+    "fca-liane-utils": "*",
+    "fca-meta": "^0.0.1",
+    "fluent-ffmpeg": "*",
+    "form-data": "*",
+    "fs-extra": "^11.3.4",
+    "gif-encoder-2": "^1.0.5",
+    "graphql-query-to-json": "*",
+    "groq-sdk": "*",
+    "imgur-link": "*",
+    "lodash": "*",
+    "mime-db": "^1.52.0",
+    "moment": "*",
+    "moment-timezone": "*",
+    "mongoose": "*",
+    "node-cron": "^3.0.3",
+    "node-fetch": "2.7.0",
+    "ora": "5.4.1",
+    "pidusage": "*",
+    "qrcode-reader": "^1.0.4",
+    "qs": "*",
+    "request": "*",
+    "searchitunes": "*",
+    "sequelize": "*",
+    "sharp": "*",
+    "socket.io": "*",
+    "socket.io-client": "*",
+    "st-shazam": "*",
+    "stfca": "1.2.28",
+    "totp-generator": "^2.0.1",
+    "twemoji": "*",
+    "yt-search": "*"
+  }
+}
