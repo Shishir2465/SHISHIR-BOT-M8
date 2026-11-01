@@ -61,8 +61,8 @@ module.exports = {
 ┃ 💬 ᴛᴏᴛᴀʟ ɢʀᴏᴜᴘꜱ: ${allThreads.length}
 ╰━━━━━━━━━━━━━━━━━━━🌀
 
-👤 𝐎𝐰𝐧𝐞𝐫: 𝐀𝐫𝐢𝐲𝐚𝐧 𝐀𝐡𝐦𝐞𝐝
-🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭: https://m.me/Mohammad.ariyan.nai.gu.kha
+👤 𝐎𝐰𝐧𝐞𝐫: 𝘼𝙝𝙢𝙚𝘿'𝙯 𝙎𝙃𝙄'𝙎𝙃𝙄𝙍
+🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭: https://m.me/Ahmed’s.nai.nai.dhn.kha
       `.trim();
 
       await delay(200);
