@@ -119,7 +119,7 @@ module.exports = {
         };
 
         const response = `╭─────────────────────────────────╮
-│           🤖 ST BOT STATUS           │
+│           🤖 SHISHIR BOT STATUS           │
 ╰─────────────────────────────────╯
 
 📡 Network Performance
@@ -149,7 +149,7 @@ module.exports = {
 └─ Active Sessions: ${Object.keys(global.GoatBot?.onReply || {}).length}
 
 ╭─────────────────────────────────╮
-│     Powered by ST | Sheikh Tamim     │
+│     Powered by SHISHIR  | AhmeD'z shi'shir     │
 ╰─────────────────────────────────╯`;
 
         await api.editMessage(response, loadingMessage.messageID);
