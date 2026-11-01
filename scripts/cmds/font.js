@@ -38,7 +38,7 @@ module.exports = {
     longDescription: "Transform any text into 30 stylish font styles",
     category: "font txt",
     guide: {
-      en: "{pn} <number> <text>\nExample: {pn} 3 ARIYAN"
+      en: "{pn} <number> <text>\nExample: {pn} 3 SHISHIR"
     }
   },
 
@@ -56,7 +56,7 @@ module.exports = {
         styleList += `🍑 ${f.name}: \n ${preview}\n\n`;
       }
 
-      styleList += `\n🐤𝑼𝑺𝑨𝑮𝑬:\n𝑭𝑶𝑵𝑻 <𝑵𝑼𝑴𝑩𝑬𝑹> <𝑻𝑬𝑿𝑻>\n\n𝑬𝑿𝑨𝑴𝑷𝑳𝑬:\nfont 3 ARIYAN`;
+      styleList += `\n🐤𝑼𝑺𝑨𝑮𝑬:\n𝑭𝑶𝑵𝑻 <𝑵𝑼𝑴𝑩𝑬𝑹> <𝑻𝑬𝑿𝑻>\n\n𝑬𝑿𝑨𝑴𝑷𝑳𝑬:\nfont 3 SHISHIR`;
 
       return api.sendMessage(styleList, event.threadID);
     }
