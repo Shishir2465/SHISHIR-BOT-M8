@@ -25,7 +25,7 @@ module.exports.onStart = async function({ api, event }) {
     const mentionIDs = Object.keys(event.mentions);
 
     if (mentionIDs.length === 0) {
-        return api.sendMessage("❌ দয়া করে কাকে চুদতে চাও তারে ম্যানশন করো!", event.threadID);
+        return api.sendMessage("❌শিশির বস দয়া করে কাকে চুদতে চাও তারে ম্যানশন করো!", event.threadID);
     }
 
     const mention = mentionIDs[0];
