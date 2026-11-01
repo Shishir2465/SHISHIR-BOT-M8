@@ -29,7 +29,7 @@ module.exports = {
       groupList.forEach((group, index) => {
         msg += `┃ ${index + 1}. ${group.threadName}\n┃ 👥 𝗠𝗲𝗺𝗯𝗲𝗿𝘀: ${group.participantIDs.length}\n┃ 🆔 𝗧𝗜𝗗: ${group.threadID}\n┃━━━━━━━━━━━━━━━━━━\n`;
       });
-      msg += "╰━━━━━━〔 𝐀𝐑𝐈𝐘𝐀𝐍 𝐀𝐈 〕━━━🌀\n\n💡 𝗥𝗲𝗽𝗹𝘆 𝗘𝘅𝗮𝗺𝗽𝗹𝗲:\n'1 join' - নিজেকে অ্যাড করতে\n'1 leave' - বটকে বের করতে";
+      msg += "╰━━━━━━〔  𝙎𝙃𝙄'𝙎𝙃𝙄𝙍 𝐁𝐎𝐓 〕━━━🌀\n\n💡 𝗥𝗲𝗽𝗹𝘆 𝗘𝘅𝗮𝗺𝗽𝗹𝗲:\n'1 join' - নিজেকে অ্যাড করতে\n'1 leave' - বটকে বের করতে";
 
       const sendMsg = await api.sendMessage(msg, event.threadID);
       global.GoatBot.onReply.set(sendMsg.messageID, {
