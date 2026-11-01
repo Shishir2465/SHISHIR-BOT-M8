@@ -1518,7 +1518,7 @@ module.exports = {
       }
 
       const resultMsg =
-        `🌸 ━━ REM 𝒁𝑶𝑵𝑬 ━━ 🌸\n` +
+        `🌸 ━━ 𝐀𝐘𝐌𝐀 𝒁𝑶𝑵𝑬 ━━ 🌸\n` +
         `[ ${outcome.symbols.join(
           " | "
         )} ]\n\n` +
