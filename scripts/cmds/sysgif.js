@@ -236,7 +236,7 @@ module.exports = {
         ctx.fillStyle = "#ffffff60";
         ctx.font = "14px 'Segoe UI', Arial";
         ctx.textAlign = "center";
-        ctx.fillText("Powered by ST | Sheikh Tamim", cx, height - 30);
+        ctx.fillText("Powered by SHISHIR  | Ahmed shishir", cx, height - 30);
 
         encoder.addFrame(ctx);
       }
@@ -247,7 +247,7 @@ module.exports = {
         api.unsendMessage(loadingMsg.messageID);
         
         api.sendMessage({
-          body: "📊 System Status Dashboard\n━━━━━━━━━━━━━━━━━━━━━\n✨ Animated hexagonal display\n🎨 Real-time system metrics\n⚡ Powered by ST Bot",
+          body: "📊 System Status Dashboard\n━━━━━━━━━━━━━━━━━━━━━\n✨ Animated hexagonal display\n🎨 Real-time system metrics\n⚡ Powered by SHISHIR Bot",
           attachment: fs.createReadStream(filePath)
         }, threadID, () => {
           try {
