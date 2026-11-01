@@ -22,12 +22,12 @@
   },
   "bioUpdate": {
     "enable": false,
-    "bioText": "HI I'M REM CHAN thank you for using me 🕊️",
+    "bioText": "Hey! I'M 𝘼𝙔𝙈𝘼 𝘽𝘽𝙯 thank you for using me 🦆",
     "updateOnce": true,
     "notes": "Bio update system. When enabled, bot will update user bio on startup. If updateOnce is true, bio will only be updated once and not on every restart. Leave bioText empty to disable."
   },
   "antiInbox": true,
-  "nickNameBot": "REM X ST | BOT..🕊️",
+  "nickNameBot": "-𝘼𝙔𝙈𝘼 𝘽𝘽𝙯🎀💤 | ..🕊️",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -40,9 +40,9 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["61595801918962"],
+  "adminBot": ["61595106187744"],
   "whiteListMode": {
-    "enable": false,
+    "eSTAIe": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
@@ -140,7 +140,7 @@
       "enable": false,
       "adminId": ""
     },
-    "message": "🤖 REM X ST BOT is online and ready!",
+    "message": "🤖  𝘼𝙔𝙈𝘼 𝘽𝘽𝙯 BOT is online and ready!",
     "notes": "Bot startup notification settings. @msgr thread IDs are sent after E2EE is fully ready."
   },
   "threadApproval": {
@@ -232,7 +232,7 @@
       "apiKey": "",
       "model": "google/gemini-2.5-flash",
       "siteUrl": "https://github.com/ariyanx404/rem-x-st",
-      "title": "STAI",
+      "title": "SHISHIR AI",
       "temperature": 0.45,
       "maxTokens": 4000,
       "reasoningEffort": "medium",
