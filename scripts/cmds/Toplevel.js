@@ -316,7 +316,7 @@ module.exports = {
     version: "2.0.0",
 
     author:
-      "ARIYAN AI",
+      "SHISHIR BOT",
 
     countDown: 5,
 
@@ -1134,7 +1134,7 @@ module.exports = {
 
         text(
           ctx,
-          "⚡ ARIYAN AI • LEVEL SYSTEM",
+          "⚡ SHISHIR BOT • LEVEL SYSTEM",
           40,
           footerY + 35,
           18,
