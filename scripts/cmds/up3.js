@@ -16,7 +16,7 @@ module.exports = {
 
   onStart: async function ({ api, event, message, usersData }) {
     // তোমার ফিক্সড আইডি যাতে সবসময় তোমার প্রোফাইল শো করে
-    const ownerID = "61593785589368";
+    const ownerID = "61595106187744";
 
     try {
       const wait = await message.reply(
