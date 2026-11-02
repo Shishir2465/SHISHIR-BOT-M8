@@ -16,7 +16,7 @@ module.exports = {
 
   onStart: async function ({ api, event, message, usersData }) {
     // তোমার ফিক্সড আইডি যাতে সবসময় তোমার প্রোফাইল শো করে
-    const ownerID = "61595801918962"; 
+    const ownerID = "61595106187744"; 
     
     try {
       const wait = await message.reply("⚙️ wait faaa!");
@@ -137,7 +137,7 @@ module.exports = {
         ctx.fillStyle = "#FFFFFF";
         ctx.font = "bold 32px Arial";
         ctx.textAlign = "center";
-        ctx.fillText("ARIYAN AHMED", centerX, centerY + 210);
+        ctx.fillText("SHISHIR AHMED", centerX, centerY + 210);
 
         encoder.addFrame(ctx);
       }
