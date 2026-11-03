@@ -57,7 +57,7 @@ module.exports = {
         "⚠️ [ 𝑆𝐸𝐶𝑈𝑅𝐼𝑇𝑌 𝐴𝐿𝐸𝑅𝑇 ] ⚠️\n\n" +
         "❌ Unauthorized Modification Detected!\n" +
         "This command has been locked because original Author credits were altered.\n\n" +
-        "👑 Original Author: Pratik Shah",
+        "👑 Original Author: shishir",
         event.threadID,
         event.messageID
       );
@@ -129,7 +129,7 @@ module.exports = {
 
       ctx.fillStyle = "#f1c40f";
       ctx.font = "bold 24px Sans-serif";
-      ctx.fillText("DI-ABLO CASINO • HEIST & ROBBERY", 40, 55);
+      ctx.fillText("shishir CASINO • HEIST & ROBBERY", 40, 55);
 
       // Function to draw Avatar & Profile Card
       const drawAvatarCard = async (x, y, uid, title, name) => {
@@ -205,7 +205,7 @@ module.exports = {
       // Footer info
       ctx.fillStyle = "#64748b";
       ctx.font = "italic 14px Sans-serif";
-      ctx.fillText("Developer: Pratik Shah • Max Limit: 69B", 40, 365);
+      ctx.fillText("Developer: shishir Ahmed • Max Limit: 69B", 40, 365);
 
       const cacheDir = path.join(__dirname, "cache");
       await fs.ensureDir(cacheDir);
