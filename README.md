@@ -1,253 +1,259 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,50:7000FF,100:00D9FF&height=280&section=header&text=SHISHIR-BOT-M8&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20Rebuilt.%20Refined.%20Reloaded.%20⚡&descSize=22&descAlignY=62&descColor=FFD700" width="100%"/><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=REM%20X%20ST%20BOT&fontSize=62&fontAlignY=40&desc=Advanced%20Messenger%20Bot%20Framework&descAlignY=62&animation=fadeIn" alt="REM X ST BOT" width="100%">
+<img src="https://i.imgur.com/9L9KC09.jpeg" width="1942" height="809" alt="SHISHIR -BOT-M8"><br><br>
 
-<img src="https://i.imgur.com/6dO8Ozt.jpeg" alt="REM X ST BOT" width="220" height="220" style="border-radius: 50%;">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+SHISHIR -BOT-M8;⚡+Next-Generation+Messenger+Bot;💎+Premium+Automation+System;🚀+Fast+%7C+Stable+%7C+Powerful;🛡️+Built+For+Performance" alt="Typing Animation"><br><br>
 
-<h1>🤖 REM X ST BOT</h1>
+<img src="https://komarev.com/ghpvc/?username=shishirbot&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=REM+X+ST+BOT;Fast+%7C+Modular+%7C+Powerful;E2EE+Supported+Messenger+Bot;Made+by+ARIYANX404" alt="Typing SVG">
+<a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git">
+<img src="https://img.shields.io/github/stars/shishirbot/SHISHIR -BOT-M8 Myle=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
+</a><a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git/network/members">
+<img src="https://img.shields.io/github/forks/shishirbot/SHISHIR -BOT-M8?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
+</a><a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git">
+<img src="https://img.shields.io/github/watchers/shushirbot/GOSHISHIR-BOT-M8?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
+</a><a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git">
+<img src="https://img.shields.io/github/last-commit/goatbotnx/SHISHIR -BOT-M8?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
+</a><a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git/blob/main/LICENSE">
+<img src="https://img.shields.io/badge/LICENSE-MIT-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+</a></div>---
 
-<br>
+<div align="center">🐐 SHISHIR -BOT-M8
 
+"Next-Generation Facebook Messenger Automation"
 
+Powerful • Modular • Fast • Customizable
 
-![Stars](https://img.shields.io/github/stars/ariyanx404/rem-x-st?style=for-the-badge&color=gold)
+</div>---
 
+✨ About
 
+SHISHIR -BOT-M8 is a powerful and modular Facebook Messenger automation bot designed for performance, flexibility and easy customization.
 
-
-![Forks](https://img.shields.io/github/forks/ariyanx404/rem-x-st?style=for-the-badge&color=blue)
-
-
-
-
-![Issues](https://img.shields.io/github/issues/ariyanx404/rem-x-st?style=for-the-badge&color=red)
-
-
-
-
-![License](https://img.shields.io/github/license/sheikhtamimlover/ST-BOT?style=for-the-badge)
-
-
-
-
-![Node](https://img.shields.io/badge/Node.js-v22.19+-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-**A customized multi-purpose chatbot framework for Facebook Messenger**
-Forked from **ST-BOT** (by Sheikh Tamim), which is based on **Goat Bot V2** (by NTKhang).
-
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-ariyanx404-181717?style=for-the-badge&logo=github)
-
-](https://github.com/ariyanx404)
-
-</div>
+The project provides a command-based architecture with support for automation, AI, media processing, user management, group management and premium features.
 
 ---
 
-## 📖 Table of Contents
+🚀 Features
 
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Configuration](#️-configuration)
-- [E2EE Support](#-e2ee-support)
-- [Writing Commands](#-writing-commands)
-- [Premium System](#-premium-system)
-- [Thread Approval](#-thread-approval)
-- [Dashboard](#-dashboard)
-- [Security Notes](#-security-notes)
-- [Credits](#-credits)
-- [License](#-license)
+<table>
+<tr>
+<td width="50%" valign="top">🤖 Automation
+
+- ⚡ Fast command execution
+- 🧩 Modular command system
+- 🔄 Event-based architecture
+- 📡 Real-time Messenger events
+- ⏱️ Command cooldown
+- 🛠️ Custom event handlers
+
+</td><td width="50%" valign="top">👑 Premium
+
+- 💎 Premium membership
+- ⭐ VIP commands
+- 🔐 Role-based permissions
+- ⏳ Membership expiration
+- 👤 User management
+- 💬 Thread management
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">🧠 AI
+
+- 🎨 AI image generation
+- 🎬 AI video generation
+- ✨ AI-powered commands
+- 🪄 Image transformation
+- 📝 Prompt processing
+- 🔌 External API integration
+
+</td><td width="50%" valign="top">📦 Media
+
+- 🖼️ Image processing
+- 🎵 Audio utilities
+- 🎬 Video utilities
+- 📥 Media downloading
+- 📤 File uploading
+- 🔗 URL processing
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">🛡️ Security
+
+- 🔒 Permission system
+- 👑 Admin controls
+- 🚫 Spam protection
+- ⚠️ Error handling
+- 🧹 Automatic cleanup
+- ⚙️ Configurable restrictions
+
+</td><td width="50%" valign="top">⚡ Performance
+
+- 🚀 Lightweight architecture
+- 🔥 Optimized command loading
+- 📦 Modular dependencies
+- 🔄 Automatic recovery
+- 💾 Efficient data handling
+- 🧩 Easy extensibility
+
+</td>
+</tr>
+</table>---
+
+
+### 🧠 Smart Role System
+Five clean permission tiers, checked in strict priority order.
+
+| Role | Level | Source |
+|---|:---:|---|
+| Developer | **4** | `devUsers` |
+| Premium | **3** | `premiumUsers` |
+| Bot Admin | **2** | `adminBot` |
+| Group Admin | **1** | thread's own admin list |
+| Member | **0** | default |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Features
 
-- 🔐 **E2EE support** — End-to-end encrypted (Labyrinth) Messenger chats
-- 🧩 **Modular command system** — add or remove commands easily
-- ♻️ **Hot-reload** — scripts reload without restarting the bot
-- 💎 **Premium system** — premium-only commands and user management
-- ✅ **Thread approval** — control which groups can use the bot
-- 🛡️ **Anti-react** — admin-only message management through reactions
-- 📊 **Web dashboard** — live monitoring and management
-- 🗄️ **MongoDB / SQLite** — flexible database options
-- 🤖 **STAI** — built-in AI assistant (bring your own API key)
-- 🔁 **Auto restart & watchdog** — self-healing
-- 🪵 **Logging system** — configurable bot logs and startup notifications
+🎨 Project Identity
+
+<div align="center">| 
+🐐 Project| SHISHIR -BOT-M8
+👨‍💻 Developer| AhmeD'z SHI'SHIR 
+🟢 Node.js| 22.x
+📜 License| MIT
+
+</div>---
+
+🧩 Command Structure
+
+commands/
+├── admin/
+├── ai/
+├── fun/
+├── media/
+├── system/
+├── utility/
+└── owner/
+
+Each command can define:
+
+Name
+Aliases
+Version
+Author
+Role
+Cooldown
+Description
+Guide
+onStart
+onReply
+onChat
 
 ---
 
-## ⚡ Quick Start
+📥 Installation
 
-**Requirements:** Node.js **v22.19 or newer**, Git
-
-```bash
-git clone https://github.com/ariyanx404/rem-x-st.git
-cd rem-x-st
+git clone https://github.com/shishir5499/SHISHIR--BOT-M8.git.git
+cd SHISHIR -BOT-M8
 npm install
-```
-
-1. Open `config.json` and set:
-   - `adminBot` → your Facebook UID
-   - `botAccount` → email / password of the **bot account** (or put cookies in `account.txt`)
-   - `database` → `sqlite` or `mongodb` (+ your own URI)
-2. Start the bot:
-
-```bash
-npm start
-```
-
-> 💡 Use a **separate Facebook account** for the bot, never your main one.
 
 ---
 
-## ⚙️ Configuration
+▶️ Start
 
-Everything lives in `config.json` and `configCommands.json`.
-
-| Setting | What it does |
-|---|---|
-| `prefix` | Default command prefix |
-| `adminBot` | Bot admin UIDs |
-| `usePrefix` | Require prefix globally / for admins |
-| `database.type` | `json`, `sqlite` or `mongodb` |
-| `dashBoard` | Enable dashboard, port, password |
-| `threadApproval` | Only approved groups can use the bot |
-| `antiReact` | Reaction-based unsend / remove (admins only) |
-| `stai` | AI provider and API keys |
-| `e2ee` | End-to-end encryption: enable, key storage (`memory` / `path`), device file path |
-
-**Empty by default:** all passwords, tokens and API keys are blank. Fill them in **only on your own server**.
+node index.js
 
 ---
 
-## 🔐 E2EE Support
+📋 Requirements
 
-REM X ST BOT supports Messenger end-to-end encrypted (E2EE / Labyrinth) chats.
-
-```json
-"e2ee": {
-  "enable": true,
-  "saveType": "path",
-  "devicePath": "database/e2ee-device.json"
-}
-```
-
-| Option | Meaning |
-|---|---|
-| `enable` | Turn E2EE on or off |
-| `saveType` | `memory`: keys are lost on restart. `path`: keys are saved to a file and survive restarts (recommended) |
-| `devicePath` | Where the device keys are saved (used when `saveType` is `path`) |
-
-> ⚠️ `database/e2ee-device.json` holds your device keys. It is already in `.gitignore`. Never upload it.
+Requirement| Version
+🟢 Node.js| 20.x
+📦 npm| 9+
+🔧 Git| Latest
+💬 Messenger Account| Required
 
 ---
 
-## 📝 Writing Commands
+⚙️ Configuration
 
-Put new files in `scripts/cmds/`:
+Configure the required project settings and account information according to the files included in the repository.
 
-```javascript
-module.exports = {
-  config: {
-    name: "hello",
-    aliases: ["hi"],
-    version: "1.0.0",
-    author: "Your Name",
-    countDown: 5,
-    role: 0,            // 0: everyone, 1: group admin, 2: bot admin
-    premium: false,
-    description: "Say hello",
-    category: "general",
-    guide: "{pn}"
-  },
+After configuration:
 
-  onStart: async function ({ message }) {
-    message.reply("Hello from REM X ST BOT! 👋");
-  }
-};
-```
-
-Useful helpers: `message.reply()`, `message.send()`, `message.unsend()`, `message.reaction()`, `message.pr()`, `usersData.get()`, `threadsData.get()`.
+npm install
+node index.js
 
 ---
 
-## 💎 Premium System
+📊 GitHub Statistics
 
-| Who | Command |
-|---|---|
-| User | `premium request <message>` |
-| Admin | `premium add <uid/@mention>` |
-| Admin | `premium remove <uid/@mention>` |
-| Admin | `premium list` / `premium pending` |
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=goatbotnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatbotnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br>
 
-Make a command premium-only with `premium: true` in its `config`.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goatbotnx&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
 
----
+👀 Visitor Counter
 
-## ✅ Thread Approval
+<div align="center"><img src="https://komarev.com/ghpvc/?username=goatbotnx&label=SHISHIR -BOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="SHISHIR -BOT Visitors"></div>---
 
-Enable in `config.json` → `threadApproval.enable`.
+🌟 Project Goals
 
-| Command | Action |
-|---|---|
-| `threadapprove list` | View threads |
-| `threadapprove approve <tid>` | Approve a thread |
-| `threadapprove unapprove <tid>` | Unapprove a thread |
-| `threadapprove pending` | View pending threads |
+<div align="center">⚡ Maximum Performance
+🧩 Clean Architecture
+🔥 Powerful Automation
+💎 Premium Experience
+🛡️ Reliable Security
+🚀 Continuous Development
 
----
+</div>---
 
-## 📊 Dashboard
+🤝 Contributing
 
-```json
-"dashBoard": {
-  "enable": true,
-  "port": 3021,
-  "passwordProtection": { "enable": true, "password": "set_a_strong_password" }
-}
-```
+Contributions, suggestions and improvements are welcome.
 
-Always turn on password protection if the dashboard is reachable from the internet.
-
----
-
-## 🔒 Security Notes
-
-- **Never** commit `account.txt`, cookies, passwords, API keys or database URIs.
-- `.gitignore` already protects the common session and secret files.
-- If you ever leak a key, **revoke it immediately** and create a new one.
+Fork
+  ↓
+Create Branch
+  ↓
+Make Changes
+  ↓
+Commit
+  ↓
+Push
+  ↓
+Pull Request
 
 ---
 
-## 🙏 Credits
+⭐ Support
 
-This project would not exist without:
+<div align="center">If you like SHISHIR -BOT-M8, consider supporting the project.
 
-| Role | Name | Link |
-|---|---|---|
-| Original creator | **NTKhang** | [Goat-Bot-V2](https://github.com/ntkhang03/Goat-Bot-V2) |
-| Enhanced fork | **Sheikh Tamim** | [ST-BOT](https://github.com/sheikhtamimlover/ST-BOT) |
-| This fork | **ARIYANX404** | [rem-x-st](https://github.com/ariyanx404/rem-x-st) |
+⭐ Star the repository
 
-Please keep these credits when you copy, modify or share this project.
+🍴 Fork the repository
 
----
+🐛 Report bugs
 
-## 📄 License
+💡 Suggest features
 
-Released under the **MIT License**. See [LICENSE](./LICENSE).
+🤝 Contribute
 
-<div align="center">
+</div>---
 
-**⭐ If you like this project, give it a star! ⭐**
+<div align="center">💜 YOuR Abbu
 
-*Made with ❤️ by ARIYANX404*
+"AhmeD'z SHI'SHIR "
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%">
+Developer • Builder • Creator
 
-</div>
+<br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=7000FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+AI+%7C+AUTOMATION;SHISHIR -BOT-M8" alt="SHISHIR"><br><br>
+
+<a href="https://github.com/shishir5499/SHISHIR--BOT-M8.git">
+<img src="https://img.shields.io/badge/SHISHIR--BOT--M8-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="SHISHIR-BOT-M8">
+</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&coGOAT-BOT-UPDATED7000FF,100:0D001A&height=140&section=footer" width="100%"></div>
