@@ -8,7 +8,7 @@ if (!global.memeSentCache) {
 
 module.exports = {
     config: {
-        name: "meme2",
+        name: "meme",
         aliases: ["memevid"],
         version: "2.0.0",
         author: "Mr.King ",
