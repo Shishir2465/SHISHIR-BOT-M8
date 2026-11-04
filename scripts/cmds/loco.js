@@ -4,8 +4,8 @@ const axios = require("axios");
 const FOLDER_ID = "1t9pkb0h51tyk3Oa2auPoldveKZFqCUBo";
 
 module.exports.config = {
-    name: "loco",
-    aliases: ["localvideo"],
+    name: "loco2",
+    aliases: ["localvideo2"],
     version: "4.0.0",
     author: "Mr.King 🎭",
     role: 0,
